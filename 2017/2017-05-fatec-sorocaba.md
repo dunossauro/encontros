@@ -40,4 +40,5 @@ Palestrante: Leandro Mendes Ferreira
 [1]: http://www.fatecsorocaba.edu.br/
 [4]: https://speakerdeck.com/rafaelhenrique/restfull-o-mito
 [5]: https://speakerdeck.com/rg3915/frontend-grupy-fatec-sorocaba
+[6]: https://github.com/z4r4tu5tr4/slides/blob/master/Por%20que%20n%C3%A3o%20falar%20de%20programa%C3%A7%C3%A3o%20funcional_.pdf
 [8]: https://gist.github.com/rafaelhenrique/2473514b994cfe52c2d62b4f29271fbb
