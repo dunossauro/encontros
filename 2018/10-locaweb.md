@@ -21,7 +21,7 @@ Palestrante: [Paulo Scardine](https://github.com/scardine)
 
 Palestrante: [Paulo Scardine](https://github.com/scardine)
 
-### Por que você ainda não está usando TOX?
+### [Por que você ainda não está usando TOX?](https://github.com/dunossauro/grupy-locaweb-2018)
 
 Palestrante: [Eduardo Mendes](https://github.com/dunossauro)
 
